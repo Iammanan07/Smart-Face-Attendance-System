@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: smart-face-attendance
-    env: python
-    plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run app.py --server.port $PORT --server.enableCORS false

@@ -1,6 +1,7 @@
 streamlit
 opencv-python
 opencv-contrib-python
+streamlit-option-menu
 numpy
 pandas
 Pillow
